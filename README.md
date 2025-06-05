@@ -16,4 +16,4 @@ npx blowfish-tools
 
 ## Deploy
 
-Handled by Github Actions
+Handled by Github Actions + Github-Pages
