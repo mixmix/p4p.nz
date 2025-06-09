@@ -218,15 +218,23 @@ _Written by Ed, Ira, Mix_
 <div style="height: 50vh" />
 
 <style>
-  details {
+  .card details {
     background: #eee;
     padding: 0.2rem 1rem;
     margin-bottom: 8px;
   }
-  details[open=""] {
+  .card details[open=""] {
     summary {
       /* font-weight: bold; */
       margin-bottom: 1rem;
+    }
+  }
+
+
+  @media (max-width: 768px) {
+    .card {
+      margin-left: -2rem;
+      margin-right: -2rem;
     }
   }
 </style>

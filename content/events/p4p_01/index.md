@@ -87,3 +87,12 @@ draft: false
     }
   }
 </style>
+
+<style>
+  @media (max-width: 768px) {
+    .card {
+      margin-left: -2rem;
+      margin-right: -2rem;
+    }
+  }
+<style>
