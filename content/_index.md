@@ -11,6 +11,8 @@ notoriously resilient and poly-centric), and shifts the focus from naming shape
 of the
 network, to the networked relationships of interdependance._
 
+Go to [faq](/pages/faq/) for questions.
+
 <style>
 h1 {
   font-size: 8vh;
