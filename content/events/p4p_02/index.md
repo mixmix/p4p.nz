@@ -18,13 +18,15 @@ draft: false
 
   _A cosy gathering of nerds who are active in art / tech / activism -- any systems in service of society._
 
-  This month we're trying a few _lightning talks_, so sing out if you'd like to speak briefly on a project you're working on.
+  This month we're trying a few :zap: **Lightning Talks** - a chance to hear briefly about a project someone is working on.
 
   <div class="details">
 
   **WHEN** -- Tuesday 10th June, 5.30-8pm <br />
-  **WHERE** -- TBD _(~ Cuba St.)_
+  **WHERE** -- 60 Cuba St.
   </div>
+
+  **B.Y.O. Snacks + Drinks**
 
   <div class="art">
 
@@ -77,7 +79,7 @@ draft: false
     }
 
     .body {
-      padding: 0 2rem 2rem 2rem;
+      padding: 0 2rem 1rem 2rem;
       h1 {
         font-size: 3rem;
         padding-top: 2rem;
@@ -90,17 +92,21 @@ draft: false
 
         }
       }
+      strong {
+        color: #111 !important;
+      }
 
       .details {
         margin-top: 2rem;
         font-size: 1.4rem;
 
-        strong {
-          color: #111 !important;
-        }
       }
       .art {
         font-size: 0.8rem;
+        a {
+          color: #111;
+          text-decoration: underline;
+        }
       }
     }
   }
@@ -139,16 +145,18 @@ draft: false
 #### 1. How to choose the right problem to solve with tech
 
 > An intro to a local food distribution project, [Coshop.nz](https://coshop.nz), and an exploration of why it was the right place to put tools.
-> [name=Ira Bailey]
+>
+> -- Ira Bailey
 
 #### 2. Houghton Valley's 100 year vision
 
 > The role of long term collective story telling in community, with [Houghton Valley's](https://www.houghtonvalley.org.nz/) stream-raising project as a case study.
-> [name=Grant]
+>
+> -- Grant
     
-#### 3. Housing talk
+#### 3. Radical Extensibility for a Livable Social Web
 
-...
+> -- Mako
 
 ### FAQ
 
