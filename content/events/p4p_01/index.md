@@ -1,10 +1,7 @@
 ---
 title: "P4P#1"
 date: 2025-05-20
-# showHero: true
 description: "the innaugral gathering"
-tags: ["example", "tag"]
-draft: false
 ---
 
 <div class="card">
@@ -26,6 +23,11 @@ draft: false
   **WHEN** - Tuesday 20th May, 5-8pm <br />
   **WHERE** - Southern Cross Garden Bar
 
+  </div>
+
+  <div class="art">
+
+  Art: [Scavengers Reign](https://harriorrihar.artstation.com/projects/qex2We) by [Jon Juarez](https://paa.ge/harriorrihar)
   </div>
 
   </div>
@@ -82,6 +84,14 @@ draft: false
 
         strong {
           color: #111 !important;
+        }
+      }
+
+      .art {
+        font-size: 0.8rem;
+        a {
+          color: #111;
+          text-decoration: underline;
         }
       }
     }

@@ -15,6 +15,7 @@ selineAnalytics = { }
 buymeacoffee = { }
 verification = { }
 rssnext = { }
+highlightCurrentMenuArea = true
 
 [header]
 layout = "basic"
@@ -48,7 +49,8 @@ layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showDraftLabel = true
-showEdit = false
+showEdit = true
+editURL = "https://github.com/mixmix/p4p.nz/tree/main/content"
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true

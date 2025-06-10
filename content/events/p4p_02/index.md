@@ -1,9 +1,7 @@
 ---
 title: "P4P#2"
 date: 2025-06-05
-description: "a description"
-# tags: ["example", "tag"]
-draft: false
+# description: "a description"
 ---
 
 <div class="card">
@@ -30,7 +28,7 @@ draft: false
 
   <div class="art">
 
-  Art by [Dominik Meyer](https://www.dominikmayer.art/)
+  Art: [Byode, Inverse Sun](https://scryfall.com/card/ph21/3/byode-inverse-sun) by [Dominik Meyer](https://www.dominikmayer.art/)
   </div>
 
   </div>
