@@ -27,7 +27,7 @@ description: "the innaugral gathering"
 
   <div class="art">
 
-  Art: [Scavengers Reign](https://harriorrihar.artstation.com/projects/qex2We) by [Jon Juarez](https://paa.ge/harriorrihar)
+  Art: [Skyline Cascade](https://scryfall.com/card/bfz/246/skyline-cascade) by [Philip Straub](https://www.artstation.com/philipstraub52)
   </div>
 
   </div>

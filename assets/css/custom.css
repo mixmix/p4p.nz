@@ -1,3 +1,4 @@
+/* Header */
 .logo svg {
   --shadow1-offset: 4px;
   --shadow1-blur: 3px;
@@ -18,7 +19,14 @@
   margin-top: 1rem;
 }
 
+/* Homepage */
+/* disable the border on the cards */
+main section div:has(> .thumbnail_card) {
+  --tw-border-style: hidden;
+}
 
+/* Article */
+/* fix the table-of-contents in mobile view */
 @media (max-width: 768px) {
   #TableOfContents {
     max-width: 100vw;
