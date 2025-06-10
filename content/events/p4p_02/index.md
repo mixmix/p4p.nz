@@ -185,10 +185,17 @@ draft: false
 <details>
   <summary>What makes a talk accessible?</summary>
 
-  - Tell people why you care
-  - Think about who's in the room, what context do they have/ not have compared to you.
-  - Don't do a sales pitch
-  - Stay away from the deeply technical stuff _(maybe speak to that in Q+A or after if people are curious)_
+  - Talk on a topic you have passion for
+  - Remember to tell people why you care -- e.g. summarise the path you took to caring about this
+  - Who's in the room, what context they might need to connect with what you're sharing?
+  - Right level of technical detail
+      - Don't shy away from technical stuff, but ensure that your audience is able
+    to participate.
+      - Aim to be speaking so that 80-100% of the room can come along with you.
+        If you're not sure if people are with you, pause and ask if
+        there are questions about anything so far.
+      - If clarifying some detail is ballooning out, summarise the important "high level" idea needed to
+        progress the talk, and maybe offer to go more in depth after the talk for those interested.
 </details>
 
 <details>
