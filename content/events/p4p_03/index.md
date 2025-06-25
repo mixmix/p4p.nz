@@ -1,6 +1,6 @@
 ---
-title: "P4P#2"
-date: 2025-06-10
+title: "P4P#3"
+date: 2025-07-15
 # description: "a description"
 ---
 
@@ -11,25 +11,22 @@ date: 2025-06-10
 
   <h1>
     P4P
-    <span>#2</span>
+    <span>#3</span>
   </h1>
 
   _A cosy gathering of nerds who are active in art / tech / activism -- any systems in service of society._
 
-  This month we're trying a few :zap: **Lightning Talks** - a chance to hear briefly about a project someone is working on.
+  This is a special edition - we'll be warming up the space that will become [CriticalSignals.nz](https://criticalsignals.nz)
+
+  [**Lightning Talks**](#lightning-talks-zap) are happening again, so get in touch if you'd like to present (we have 3 slots).
 
   <div class="details">
 
-  **WHEN** -- Tuesday 10th June, 5.30-8pm <br />
-  **WHERE** -- 60 Cuba St.
+  **WHEN** -- Tuesday 15th July, 5.30-8pm <br />
+  **WHERE** -- 115 Taranaki St
   </div>
 
   **B.Y.O. Snacks + Drinks**
-
-  <div class="art">
-
-  Art: [Byode, Inverse Sun](https://scryfall.com/card/ph21/3/byode-inverse-sun) by [Dominik Meyer](https://www.dominikmayer.art/)
-  </div>
 
   </div>
 
@@ -141,21 +138,23 @@ date: 2025-06-10
 ### This Months Talks
 
 
-#### 1. How to choose the right problem to solve with tech
+#### 1. Resilience App
 
-> An intro to a local food distribution project, [Coshop.nz](https://coshop.nz), and an exploration of why it was the right place to put tools.
+> ???
 >
-> -- Ira Bailey
+> -- Miles Thompson
 
-#### 2. Houghton Valley's 100 year vision
+#### 2. ???
 
-> The role of long term collective story telling in community, with [Houghton Valley's](https://www.houghtonvalley.org.nz/) stream-raising project as a case study.
+> ???
 >
-> -- Grant
+> -- ??
     
-#### 3. Radical Extensibility for a Livable Social Web
+#### 3. ???
 
-> -- Mako
+> ???
+
+> -- ??
 
 ### FAQ
 
@@ -234,6 +233,11 @@ _Written by Ed, Ira, Mix_
       /* font-weight: bold; */
       margin-bottom: 1rem;
     }
+  }
+
+  .card a {
+    color: inherit;
+    text-decoration: underline;
   }
 
 

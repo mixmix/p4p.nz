@@ -61,6 +61,7 @@ description: "the innaugral gathering"
       height: 600px;
       background-image: url('./featured.jpg');
       background-size: cover;
+      background-position: center;
       border-radius: var(--radius) var(--radius) 0 0;
     }
 
